@@ -30,8 +30,8 @@ const HomePage: React.FC = () => {
               </ul>
           </div>
            <div className="grid grid-cols-2 gap-4">
-              <img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=800&h=1000&fit=crop" alt="Business meeting" className="rounded-lg shadow-lg aspect-[4/5] object-cover" />
-              <img src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=800&h=600&fit=crop" alt="Industrial pipes" className="rounded-lg shadow-lg aspect-[4/3] object-cover" />
+              <img src="https://images.pexels.com/photos/1181280/pexels-photo-1181280.jpeg?auto=compress&cs=tinysrgb&w=800&h=1000&fit=crop&dpr=1" alt="Business meeting" className="rounded-lg shadow-lg aspect-[4/5] object-cover" />
+              <img src="https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop&dpr=1" alt="Engineers at a construction site" className="rounded-lg shadow-lg aspect-[4/3] object-cover" />
            </div>
         </div>
       </section>
@@ -57,19 +57,19 @@ const HomePage: React.FC = () => {
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
             <div className="text-center">
-                <img src="https://images.unsplash.com/photo-1542345339-235f3d3b4b51?q=80&w=400&h=300&fit=crop" alt="Social & Systems" className="rounded-lg shadow-lg mb-4 w-full aspect-[4/3] object-cover" />
+                <img src="https://images.pexels.com/photos/7111956/pexels-photo-7111956.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop&dpr=1" alt="Social & Systems" className="rounded-lg shadow-lg mb-4 w-full aspect-[4/3] object-cover" />
                 <h3 className="font-bold text-lg text-white">Social & Systems</h3>
             </div>
              <div className="text-center">
-                <img src="https://images.unsplash.com/photo-1599389901415-4685087a3867?q=80&w=400&h=300&fit=crop" alt="Product Certification" className="rounded-lg shadow-lg mb-4 w-full aspect-[4/3] object-cover" />
+                <img src="https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop&dpr=1" alt="Product Certification" className="rounded-lg shadow-lg mb-4 w-full aspect-[4/3] object-cover" />
                 <h3 className="font-bold text-lg text-white">Product Certification</h3>
             </div>
              <div className="text-center">
-                <img src="https://images.unsplash.com/photo-1554224154-260325c755d7?q=80&w=400&h=300&fit=crop" alt="Fire Safety" className="rounded-lg shadow-lg mb-4 w-full aspect-[4/3] object-cover" />
+                <img src="https://images.pexels.com/photos/1105325/pexels-photo-1105325.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop&dpr=1" alt="Fire Safety" className="rounded-lg shadow-lg mb-4 w-full aspect-[4/3] object-cover" />
                 <h3 className="font-bold text-lg text-white">Fire Safety</h3>
             </div>
              <div className="text-center">
-                <img src="https://images.unsplash.com/photo-1542601904-9728515949a5?q=80&w=400&h=300&fit=crop" alt="Environmental" className="rounded-lg shadow-lg mb-4 w-full aspect-[4/3] object-cover" />
+                <img src="https://images.pexels.com/photos/4497759/pexels-photo-4497759.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop&dpr=1" alt="Environmental" className="rounded-lg shadow-lg mb-4 w-full aspect-[4/3] object-cover" />
                 <h3 className="font-bold text-lg text-white">Environmental</h3>
             </div>
         </div>

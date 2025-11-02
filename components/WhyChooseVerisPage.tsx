@@ -43,8 +43,8 @@ const WhyChooseVerisPage: React.FC = () => {
           </div>
           <div>
               <img 
-                  src="https://images.unsplash.com/photo-1543269865-cbf427effbad?q=80&w=1000&h=800&fit=crop" 
-                  alt="Collaborative team working at a table" 
+                  src="https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1000&h=800&fit=crop&dpr=1" 
+                  alt="Collaborative team working together" 
                   className="rounded-lg shadow-xl w-full object-cover"
               />
           </div>

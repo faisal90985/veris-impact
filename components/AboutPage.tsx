@@ -17,7 +17,7 @@ const AboutPage: React.FC = () => {
             </div>
             <div>
                 <img 
-                    src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1000&h=800&fit=crop" 
+                    src="https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1000&h=800&fit=crop&dpr=1" 
                     alt="Team meeting in a modern office" 
                     className="rounded-lg shadow-xl w-full object-cover"
                 />

@@ -25,8 +25,8 @@ const GovernancePage: React.FC = () => {
             </div>
             <div className="md:col-span-2">
                 <img 
-                    src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1000&h=1200&fit=crop" 
-                    alt="Business professionals in a meeting" 
+                    src="https://images.pexels.com/photos/1181414/pexels-photo-1181414.jpeg?auto=compress&cs=tinysrgb&w=1000&h=1200&fit=crop&dpr=1" 
+                    alt="Business professionals in a formal meeting" 
                     className="rounded-lg shadow-xl w-full object-cover"
                 />
             </div>

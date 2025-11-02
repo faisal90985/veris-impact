@@ -14,8 +14,8 @@ const ServicesPage: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-20">
           <div>
               <img 
-                  src="https://images.unsplash.com/photo-1665686306574-1ace09918530?q=80&w=1000&h=700&fit=crop" 
-                  alt="ESG and Sustainability Concept" 
+                  src="https://images.pexels.com/photos/3861457/pexels-photo-3861457.jpeg?auto=compress&cs=tinysrgb&w=1000&h=700&fit=crop&dpr=1" 
+                  alt="Scientist in a lab, representing the chemicals and manufacturing industries" 
                   className="rounded-lg shadow-xl w-full object-cover"
               />
           </div>
@@ -34,8 +34,8 @@ const ServicesPage: React.FC = () => {
         
         <div className="w-full">
           <img 
-              src="https://images.unsplash.com/photo-1554224155-8d04421cd698?q=80&w=1600&h=600&fit=crop"
-              alt="Montage of industries"
+              src="https://images.pexels.com/photos/3184433/pexels-photo-3184433.jpeg?auto=compress&cs=tinysrgb&w=1600&h=600&fit=crop&dpr=1"
+              alt="Engineers reviewing plans at a construction site"
               className="rounded-lg shadow-lg w-full object-cover h-64 md:h-80"
           />
         </div>

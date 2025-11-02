@@ -13,8 +13,8 @@ const CommitmentPage: React.FC = () => {
                 <p className="text-gray-300">At Veris Impact, sustainability is central to our purpose. Our assurance activities align with the UN Sustainable Development Goals (SDGs), advancing transparency, ethical performance, and continuous improvement across industries. We partner with organisations to transform sustainability commitments into measurable outcomes, ensuring every certification or verification contributes to lasting global impact.</p>
             </div>
             <img 
-                src="https://images.unsplash.com/photo-1586473216172-27a001186b51?q=80&w=1200&h=700&fit=crop" 
-                alt="Professionals discussing sustainability in a warehouse" 
+                src="https://images.pexels.com/photos/5728519/pexels-photo-5728519.jpeg?auto=compress&cs=tinysrgb&w=1200&h=700&fit=crop&dpr=1" 
+                alt="Wooden blocks with sustainability icons (recycle, CO2, globe) on lush grass" 
                 className="rounded-lg shadow-xl w-full object-cover mx-auto"
             />
         </div>
